@@ -1,4 +1,4 @@
-# Black-Friday-Sales-Prediction
+# Black-Friday-Sales-Prediction-Of-an-Ecommerce-Company
 There is an E-commerce Company that wants to know how much a customer will spend on Black Friday Sale. 
 We have different customer IDs and Product IDs representing the different customers and products. There are three product category variables representing many categories of products.
 
@@ -17,7 +17,3 @@ We have different customer IDs and Product IDs representing the different custom
 | Product_Category_3	       |  Product may belongs to other category also (Masked)   |
 | Purchase	                 |  Purchase Amount (Target Variable)                     |
 
-We have used RMSE metric for evaluating the model.
-
-Visit Analytics Vidhya(https://datahack.analyticsvidhya.com/contest/black-friday/lb?page=2) for my rank
-Voila! I achieved Rank 302 on the Public Leaderboard in the hackathon by @AnalyticsVidhya Practice Problem: Black Friday Sales Prediction 
